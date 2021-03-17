@@ -7,7 +7,6 @@ Paste the program into a folder and a database is created in that folder when th
 The Database will contain the data scraped from the cbse website after the program is done executing.
 
 DB SCHEMA:
-(
 
 SRL   INT NOT NULL,
 
@@ -26,5 +25,3 @@ PHNO    TEXT,
 EMAIL   TEXT,
 
 WEBSITE TEXT
-
-);
